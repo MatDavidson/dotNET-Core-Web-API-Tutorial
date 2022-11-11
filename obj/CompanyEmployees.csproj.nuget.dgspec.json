@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\matda\\source\\repos\\CompanyEmployees\\CompanyEmployees\\CompanyEmployees.csproj": {}
+    "C:\\Users\\matda\\source\\repos\\dotNET-Core-Web-API-Tutorial\\CompanyEmployees\\CompanyEmployees.csproj": {}
   },
   "projects": {
-    "C:\\Users\\matda\\source\\repos\\CompanyEmployees\\CompanyEmployees\\CompanyEmployees.csproj": {
+    "C:\\Users\\matda\\source\\repos\\dotNET-Core-Web-API-Tutorial\\CompanyEmployees\\CompanyEmployees.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\matda\\source\\repos\\CompanyEmployees\\CompanyEmployees\\CompanyEmployees.csproj",
+        "projectUniqueName": "C:\\Users\\matda\\source\\repos\\dotNET-Core-Web-API-Tutorial\\CompanyEmployees\\CompanyEmployees.csproj",
         "projectName": "CompanyEmployees",
-        "projectPath": "C:\\Users\\matda\\source\\repos\\CompanyEmployees\\CompanyEmployees\\CompanyEmployees.csproj",
+        "projectPath": "C:\\Users\\matda\\source\\repos\\dotNET-Core-Web-API-Tutorial\\CompanyEmployees\\CompanyEmployees.csproj",
         "packagesPath": "C:\\Users\\matda\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\matda\\source\\repos\\CompanyEmployees\\CompanyEmployees\\obj\\",
+        "outputPath": "C:\\Users\\matda\\source\\repos\\dotNET-Core-Web-API-Tutorial\\CompanyEmployees\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\matda\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "2u9AHSEeHcxx8ggh8OlSRjH1tURV0xfYYSJbwiEKCFrUsreH4nSeu3vice86D8OrI1A0zErS0ollgYTbx1668Q==",
+  "dgSpecHash": "jNthmg1xn96soMnc7A8Hcx6e8RDsyeQZBltOMeuCgrORkZ2wrKJhXey2ELMcyPzEl3WVKlXUVshU2Qut91wIKg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\matda\\source\\repos\\CompanyEmployees\\CompanyEmployees\\CompanyEmployees.csproj",
+  "projectFilePath": "C:\\Users\\matda\\source\\repos\\dotNET-Core-Web-API-Tutorial\\CompanyEmployees\\CompanyEmployees.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
